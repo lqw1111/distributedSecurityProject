@@ -1,0 +1,8 @@
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/UAAServer.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/TokenConfig.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/dao/UserDao.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/AuthorizationServer.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/model/PermissionDto.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/service/SpringDataUserDetailsService.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/model/UserDto.java
+/Users/luoqinwei/Desktop/merge/distributed-security/distributed-security-uaa/src/main/java/com/itheima/security/distributed/uaa/config/WebSecurityConfig.java

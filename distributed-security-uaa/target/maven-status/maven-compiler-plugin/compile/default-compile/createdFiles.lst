@@ -1,0 +1,8 @@
+com/itheima/security/distributed/uaa/model/PermissionDto.class
+com/itheima/security/distributed/uaa/service/SpringDataUserDetailsService.class
+com/itheima/security/distributed/uaa/dao/UserDao.class
+com/itheima/security/distributed/uaa/config/WebSecurityConfig.class
+com/itheima/security/distributed/uaa/model/UserDto.class
+com/itheima/security/distributed/uaa/config/TokenConfig.class
+com/itheima/security/distributed/uaa/config/AuthorizationServer.class
+com/itheima/security/distributed/uaa/UAAServer.class
